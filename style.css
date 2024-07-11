@@ -1,0 +1,23 @@
+*{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+
+ul,li,a {
+    color: black;
+}
+
+
+img {
+    vertical-align: middle; /* or use top, bottom, or any other value based on your preference */
+    height: 3em; /* Example height to match the text size, adjust as necessary */
+    width: auto; /* Maintain aspect ratio */
+}
